@@ -49,6 +49,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [triton vm](https://github.com/TritonVM/triton-vm)
 - [valida](https://github.com/valida-xyz/valida)
 - [zkWasm](https://github.com/DelphinusLab/zkWasm)
+- [zkm](https://github.com/zkMIPS/zkm)
 
 ## bench
 
@@ -93,6 +94,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [what does risc v have to do with risc zero's zkvm](https://www.youtube.com/watch?v=11DIflEwx50)
 - [risc zero architecture presentation @ stanford](https://www.youtube.com/watch?v=RtGk6967PC4)
 - [continuations: scaling in zkvm](https://www.youtube.com/watch?v=h1qWnf-M5lo)
+- [Getting the bugs out of SNARKs: The road ahead](https://a16zcrypto.com/posts/article/getting-bugs-out-of-snarks/)
 
 ## tutorials
 
