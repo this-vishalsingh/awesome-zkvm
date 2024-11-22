@@ -53,10 +53,10 @@ A curated list of zkVM, zero-knowledge virtual machine.
 
 ## bench
 
-- [benchmarks (lita)](https://lita.gitbook.io/lita-documentation/architecture/benchmarks)
-- [benchmark (risc0)](https://reports.risczero.com/benchmarks/Linux-cpu)
-- [zkvm-benchmarks (a16z)](https://github.com/a16z/zkvm-benchmarks)
-- [zkvm perf (succinct)](https://github.com/succinctlabs/zkvm-perf)
+- [benchmarks (lita)](https://lita.gitbook.io/lita-documentation/architecture/benchmarks) | [code](https://github.com/lita-xyz/benchmarks)
+- [benchmark (risc0)](https://reports.risczero.com/benchmarks/Linux-cpu) | [code](https://github.com/risc0/risc0/tree/main/benchmarks) 
+- zkvm-benchmarks (a16z) | [code](https://github.com/a16z/zkvm-benchmarks)
+- zkvm perf (succinct) | [code](https://github.com/succinctlabs/zkvm-perf)
 
 ## papers
 
