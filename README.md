@@ -51,6 +51,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [triton vm](https://github.com/TritonVM/triton-vm)
 - [valida](https://github.com/valida-xyz/valida)
 - [zisk](https://github.com/0xPolygonHermez/zisk)
+- [zkLLVM](https://github.com/NilFoundation/zkLLVM)
 - [zkWasm](https://github.com/DelphinusLab/zkWasm)
 - [zkm](https://github.com/zkMIPS/zkm)
 
