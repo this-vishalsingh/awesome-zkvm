@@ -57,8 +57,8 @@ A curated list of zkVM, zero-knowledge virtual machine.
 |          [mozak vm](https://github.com/0xmozak/mozak-vm)          |        RISC-V        |             :red_circle:              |  :red_circle:  |                |                Rust                 |
 |         [nexus](https://github.com/nexus-xyz/nexus-zkvm)          |        RISC-V        |            :green_circle:             | :green_circle: |                |                Rust                 |
 | [o1vm](https://github.com/o1-labs/proof-systems/tree/master/o1vm) |     MIPS & RISC-V    |             :red_circle:              |  :red_circle:  |                |                Rust                 |
-| [openvm](https://github.com/openvm-org/openvm)                    |        RISC-V        |                                       | :green_circle: |                |                Rust                 |
 |              [olavm](https://github.com/Sin7Y/olavm)              |     Ola Assembly     |             :red_circle:              | :green_circle: |                |            Ola Assembly             |
+| [openvm](https://github.com/openvm-org/openvm)                    |        RISC-V        |                                       | :green_circle: |                |                Rust                 |
 |          [powdrVM](https://github.com/powdr-labs/powdr)           |        RISC-V        |            :green_circle:             | :green_circle: |                |          Rust, Powdr, PIL           |
 |              [risc0](https://github.com/risc0/risc0)              |        RISC-V        |            :green_circle:             | :green_circle: | :green_circle: |                Rust                 |
 |            [sp1](https://github.com/succinctlabs/sp1)             |        RISC-V        |            :green_circle:             | :green_circle: | :green_circle: |                Rust                 |
