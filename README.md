@@ -33,7 +33,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
     - [Risc Zero](#risc-zero)
     - [EDEN](#eden)
   - [resources](#resources)
-  - [tutorials](#tutorials)
+  - [tutorials / educational zkVM](#tutorials--educational-zkvm)
   - [related awesome lists](#related-awesome-lists)
 
 ## projects
@@ -43,7 +43,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 
 - ISA (Instruction Set Architecture): The fundamental “language” of the VM, defining all its basic operations and how they interact with data.
 - Continuations (Sharding): A technique to break oversized computations — too big for a single run — into smaller parts that can be processed in parallel, paused, and resumed later.
-- Precompiles (Built-ins, Chiplets, Syscalls): Specialized, pre-built functions for complex tasks (like cryptography) that boost efficiency and reduce proof overhead.
+- Precompiles (Built-ins, Chiplets, Accelerate etc): Specialized, pre-built functions for complex tasks (like cryptography) that boost efficiency and reduce proof overhead.
 - Proving Frontend: A user-friendly language for writing provable programs, which then get compiled down into the VM’s supported ISA for zero-knowledge execution.
 - GPU: Indicates if proving on GPU is supported (based on publicly exposed Metal/CUDA code)
 
@@ -56,9 +56,9 @@ A curated list of zkVM, zero-knowledge virtual machine.
 |        [miden](https://github.com/0xPolygonMiden/miden-vm)        | MASM(Miden Assembly) |             :red_circle:              | :green_circle: | :green_circle: |             Rust, Wasm              |
 |          [mozak vm](https://github.com/0xmozak/mozak-vm)          |        RISC-V        |             :red_circle:              |  :red_circle:  |                |                Rust                 |
 |         [nexus](https://github.com/nexus-xyz/nexus-zkvm)          |        RISC-V        |            :green_circle:             | :green_circle: |                |                Rust                 |
-| [o1vm](https://github.com/o1-labs/proof-systems/tree/master/o1vm) |     MIPS & RISC-V    |             :red_circle:              |  :red_circle:  |                |                Rust                 |
+| [o1vm](https://github.com/o1-labs/proof-systems/tree/master/o1vm) |    MIPS & RISC-V     |             :red_circle:              |  :red_circle:  |                |                Rust                 |
 |              [olavm](https://github.com/Sin7Y/olavm)              |     Ola Assembly     |             :red_circle:              | :green_circle: |                |            Ola Assembly             |
-| [openvm](https://github.com/openvm-org/openvm)                    |        RISC-V        |                                       | :green_circle: |                |                Rust                 |
+|          [openvm](https://github.com/openvm-org/openvm)           |        RISC-V        |            :green_circle:             | :green_circle: |                |                Rust                 |
 |          [powdrVM](https://github.com/powdr-labs/powdr)           |        RISC-V        |            :green_circle:             | :green_circle: |                |          Rust, Powdr, PIL           |
 |              [risc0](https://github.com/risc0/risc0)              |        RISC-V        |            :green_circle:             | :green_circle: | :green_circle: |                Rust                 |
 |            [sp1](https://github.com/succinctlabs/sp1)             |        RISC-V        |            :green_circle:             | :green_circle: | :green_circle: |                Rust                 |
