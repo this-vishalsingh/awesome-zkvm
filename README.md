@@ -144,6 +144,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [stark 101](https://starkware.co/stark-101/)
 - [stwo brainfuck](https://github.com/kkrt-labs/stwo-brainfuck)
 - [useless zkvm](https://github.com/armanthepythonguy/Useless-ZKVM)
+- [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
 
 ## related awesome lists
 
