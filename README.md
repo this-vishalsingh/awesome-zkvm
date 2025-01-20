@@ -34,6 +34,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
     - [EDEN](#eden)
   - [resources](#resources)
   - [tutorials / educational zkVM](#tutorials--educational-zkvm)
+  - [related tooling](#related-tooling)
   - [related awesome lists](#related-awesome-lists)
 
 ## projects
@@ -47,27 +48,27 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - Proving Frontend: A user-friendly language for writing provable programs, which then get compiled down into the VM’s supported ISA for zero-knowledge execution.
 - GPU: Indicates if proving on GPU is supported (based on publicly exposed Metal/CUDA code)
 
-|                               zkVM                                |         ISA          | Continuations & <br> Parallel Proving |  Precompiles       |      GPU           |          Proving Frontend           |
+|                               zkVM                                |         ISA          | Continuations & <br> Parallel Proving |    Precompiles     |        GPU         |          Proving Frontend           |
 | :---------------------------------------------------------------: | :------------------: | :-----------------------------------: | :----------------: | :----------------: | :---------------------------------: |
-|         [cairo](https://github.com/lambdaclass/cairo-vm)          |        Cairo         |             :x:                       | :white_check_mark: |                    |                Cairo                |
-|            [ceno](https://github.com/scroll-tech/ceno)            |        RISC-V        |             :x:                       |       :x:          |                    |                Rust                 |
-|      [eigen zkvm](https://github.com/0xEigenLabs/eigen-zkvm)      |        RISC-V        |            :white_check_mark:         | :white_check_mark: |                    |                Rust                 |
-|               [jolt](https://github.com/a16z/jolt)                |        RISC-V        |             :x:                       |       :x:          |                    |                Rust                 |
-|        [miden](https://github.com/0xPolygonMiden/miden-vm)        | MASM(Miden Assembly) |             :x:                       | :white_check_mark: | :white_check_mark: |             Rust, Wasm              |
-|          [mozak vm](https://github.com/0xmozak/mozak-vm)          |        RISC-V        |             :x:                       |       :x:          |                    |                Rust                 |
-|         [nexus](https://github.com/nexus-xyz/nexus-zkvm)          |        RISC-V        |            :white_check_mark:         | :white_check_mark: |                    |                Rust                 |
-| [o1vm](https://github.com/o1-labs/proof-systems/tree/master/o1vm) |    MIPS & RISC-V     |             :x:                       |       :x:          |                    |                Rust                 |
-|              [olavm](https://github.com/Sin7Y/olavm)              |     Ola Assembly     |             :x:                       | :white_check_mark: |                    |            Ola Assembly             |
-|          [openvm](https://github.com/openvm-org/openvm)           |        RISC-V        |            :white_check_mark:         | :white_check_mark: |                    |                Rust                 |
-|          [powdrVM](https://github.com/powdr-labs/powdr)           |        RISC-V        |            :white_check_mark:         | :white_check_mark: |                    |          Rust, Powdr, PIL           |
-|              [risc0](https://github.com/risc0/risc0)              |        RISC-V        |            :white_check_mark:         | :white_check_mark: | :white_check_mark: |                Rust                 |
-|            [sp1](https://github.com/succinctlabs/sp1)             |        RISC-V        |            :white_check_mark:         | :white_check_mark: | :white_check_mark: |                Rust                 |
-|       [sphinx](https://github.com/argumentcomputer/sphinx)        |        RISC-V        |            :white_check_mark:         | :white_check_mark: |                    |                Rust                 |
-|        [triton vm](https://github.com/TritonVM/triton-vm)         |   Triton Assembly    |             :x:                       |       :x:          |                    |           Triton Assembly           |
-|          [valida](https://github.com/valida-xyz/valida)           |        Valida        |             :x:                       |       :x:          |                    |               Rust, C               |
-|          [zisk](https://github.com/0xPolygonHermez/zisk)          |        RISC-V        |             :white_check_mark:        |       :x:          |                    |                 PIL                 |
-|               [zkm](https://github.com/zkMIPS/zkm)                |         MIPS         |            :white_check_mark:         | :white_check_mark: |                    |              Rust, Go               |
-|         [zkWasm](https://github.com/DelphinusLab/zkWasm)          |         Wasm         |            :white_check_mark:         | :white_check_mark: |                    | C, C++, rust, etc (wasm compilable) |
+|         [cairo](https://github.com/lambdaclass/cairo-vm)          |        Cairo         |                  :x:                  | :white_check_mark: |                    |                Cairo                |
+|            [ceno](https://github.com/scroll-tech/ceno)            |        RISC-V        |                  :x:                  |        :x:         |                    |                Rust                 |
+|      [eigen zkvm](https://github.com/0xEigenLabs/eigen-zkvm)      |        RISC-V        |          :white_check_mark:           | :white_check_mark: |                    |                Rust                 |
+|               [jolt](https://github.com/a16z/jolt)                |        RISC-V        |                  :x:                  |        :x:         |                    |                Rust                 |
+|        [miden](https://github.com/0xPolygonMiden/miden-vm)        | MASM(Miden Assembly) |                  :x:                  | :white_check_mark: | :white_check_mark: |             Rust, Wasm              |
+|          [mozak vm](https://github.com/0xmozak/mozak-vm)          |        RISC-V        |                  :x:                  |        :x:         |                    |                Rust                 |
+|         [nexus](https://github.com/nexus-xyz/nexus-zkvm)          |        RISC-V        |          :white_check_mark:           | :white_check_mark: |                    |                Rust                 |
+| [o1vm](https://github.com/o1-labs/proof-systems/tree/master/o1vm) |    MIPS & RISC-V     |                  :x:                  |        :x:         |                    |                Rust                 |
+|              [olavm](https://github.com/Sin7Y/olavm)              |     Ola Assembly     |                  :x:                  | :white_check_mark: |                    |            Ola Assembly             |
+|          [openvm](https://github.com/openvm-org/openvm)           |        RISC-V        |          :white_check_mark:           | :white_check_mark: |                    |                Rust                 |
+|          [powdrVM](https://github.com/powdr-labs/powdr)           |        RISC-V        |          :white_check_mark:           | :white_check_mark: |                    |          Rust, Powdr, PIL           |
+|              [risc0](https://github.com/risc0/risc0)              |        RISC-V        |          :white_check_mark:           | :white_check_mark: | :white_check_mark: |                Rust                 |
+|            [sp1](https://github.com/succinctlabs/sp1)             |        RISC-V        |          :white_check_mark:           | :white_check_mark: | :white_check_mark: |                Rust                 |
+|       [sphinx](https://github.com/argumentcomputer/sphinx)        |        RISC-V        |          :white_check_mark:           | :white_check_mark: |                    |                Rust                 |
+|        [triton vm](https://github.com/TritonVM/triton-vm)         |   Triton Assembly    |                  :x:                  |        :x:         |                    |           Triton Assembly           |
+|          [valida](https://github.com/valida-xyz/valida)           |        Valida        |                  :x:                  |        :x:         |                    |               Rust, C               |
+|          [zisk](https://github.com/0xPolygonHermez/zisk)          |        RISC-V        |          :white_check_mark:           |        :x:         |                    |                 PIL                 |
+|               [zkm](https://github.com/zkMIPS/zkm)                |         MIPS         |          :white_check_mark:           | :white_check_mark: |                    |              Rust, Go               |
+|         [zkWasm](https://github.com/DelphinusLab/zkWasm)          |         Wasm         |          :white_check_mark:           | :white_check_mark: |                    | C, C++, rust, etc (wasm compilable) |
 
 ## bench
 
@@ -145,6 +146,11 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [stwo brainfuck](https://github.com/kkrt-labs/stwo-brainfuck)
 - [useless zkvm](https://github.com/armanthepythonguy/Useless-ZKVM)
 - [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
+  
+## related tooling
+
+- [zkRust](https://github.com/yetanotherco/zkRust)
+- [any zkVM](https://github.com/MatteoMer/any-zkvm)
 
 ## related awesome lists
 
