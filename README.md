@@ -133,6 +133,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [continuations: scaling in zkvm](https://www.youtube.com/watch?v=h1qWnf-M5lo)
 - [Getting the bugs out of SNARKs: The road ahead](https://a16zcrypto.com/posts/article/getting-bugs-out-of-snarks/)
 - [~tacryt-socryp on Zorp, the Nock zkVM | Reassembly23](https://www.youtube.com/watch?v=zD45V6GAD00)
+- [Automatic Circuit Acceleration of Guest Programs](https://www.powdr.org/blog/auto-acc-circuits)
 
 ## tutorials / educational zkVM
 
