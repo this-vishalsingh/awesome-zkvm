@@ -101,6 +101,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 
 ### SP1
 
+- [](https://github.com/succinctlabs/sp1/blob/5c8a50e08b48d22b88471f39f9cc45947ca3bf5c/book/static/SP1_Turbo_Memory_Argument.pdf)
 - [Succint Network: Prove the World's software](https://www.provewith.us/)
 
 ### Risc Zero
@@ -134,6 +135,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [Getting the bugs out of SNARKs: The road ahead](https://a16zcrypto.com/posts/article/getting-bugs-out-of-snarks/)
 - [~tacryt-socryp on Zorp, the Nock zkVM | Reassembly23](https://www.youtube.com/watch?v=zD45V6GAD00)
 - [Automatic Circuit Acceleration of Guest Programs](https://www.powdr.org/blog/auto-acc-circuits)
+- [Memory argument via elliptic curve based multiset hashing](https://github.com/succinctlabs/sp1/blob/5c8a50e08b48d22b88471f39f9cc45947ca3bf5c/book/static/SP1_Turbo_Memory_Argument.pdf)
 
 ## tutorials / educational zkVM
 
