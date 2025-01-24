@@ -101,7 +101,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 
 ### SP1
 
-- [](https://github.com/succinctlabs/sp1/blob/5c8a50e08b48d22b88471f39f9cc45947ca3bf5c/book/static/SP1_Turbo_Memory_Argument.pdf)
+- [SP1 V4 Turbo: Memory Argument via Elliptic Curve based Multiset Hashing](https://github.com/succinctlabs/sp1/blob/5c8a50e08b48d22b88471f39f9cc45947ca3bf5c/book/static/SP1_Turbo_Memory_Argument.pdf)
 - [Succint Network: Prove the World's software](https://www.provewith.us/)
 
 ### Risc Zero
