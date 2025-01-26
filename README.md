@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">awesome zkVm</h1>
+  <h1 align="center">awesome zkVM</h1>
 
 A curated list of zkVM, zero-knowledge virtual machine.
 
@@ -135,7 +135,6 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [Getting the bugs out of SNARKs: The road ahead](https://a16zcrypto.com/posts/article/getting-bugs-out-of-snarks/)
 - [~tacryt-socryp on Zorp, the Nock zkVM | Reassembly23](https://www.youtube.com/watch?v=zD45V6GAD00)
 - [Automatic Circuit Acceleration of Guest Programs](https://www.powdr.org/blog/auto-acc-circuits)
-- [Memory argument via elliptic curve based multiset hashing](https://github.com/succinctlabs/sp1/blob/5c8a50e08b48d22b88471f39f9cc45947ca3bf5c/book/static/SP1_Turbo_Memory_Argument.pdf)
 - [Introducing Twist and Shout](https://a16zcrypto.com/posts/article/introducing-twist-and-shout/)
 
 ## tutorials / educational zkVM
