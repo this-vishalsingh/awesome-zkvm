@@ -82,6 +82,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - definitive guide to zkVMs | [article](http://mirror.xyz/stackrlabs.eth/jEBSBZtKEiMiTrRIGMCxN7n6r7al-vi25lmrnD610W4)
 - Lurk 0.5 Benchmarks | [article](https://argument.xyz/blog/perf-2024/)
 - benchmark of zkVMs and proving schemes | [code](https://github.com/babybear-labs/benchmark)
+- zkvm testing | [article](https://vac.dev/rlog/zkVM-testing/#summary-table)
 
 ## papers
 
