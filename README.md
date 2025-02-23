@@ -113,6 +113,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [benchmark (risc0)](https://reports.risczero.com/benchmarks/Linux-cpu) | [code](https://github.com/risc0/risc0/tree/main/benchmarks)
 - zkvm-benchmarks (a16z) | [code](https://github.com/a16z/zkvm-benchmarks)
 - zkvm perf (succinct) | [code](https://github.com/succinctlabs/zkvm-perf)
+- zkvm bench (brevis) | [code](https://github.com/brevis-network/zkvm-bench)
 
 ## Independent/third-party Benchmarks
 - CPU and GPU benchmark setup by Yet Another Co | [code](https://github.com/yetanotherco/zkvm_benchmarks)
