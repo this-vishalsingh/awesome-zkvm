@@ -154,7 +154,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - [EDEN](https://eprint.iacr.org/2023/1021.pdf)
 
 ## resources
-
+- Projects That Shaped Modern zkVMs ([Part 1](https://blog.zksecurity.xyz/posts/zkvm-projects-1/))
 - [a zero-knowledge paradigm series](https://www.lita.foundation/blog/zero-knowledge-paradigm-zkvm)
 - [cairo – a turing-complete stark-friendly cpu architecture - shahar papini](https://www.youtube.com/watch?v=vVgHL5vpJxY&t=33s)
 - [lasso + jolt playlist](https://youtube.com/playlist?list=PLjQ9HCQMu_8xjOEM_vh5p26ODtr-mmGxO&si=Uega8IMg_J8kNaa8)
