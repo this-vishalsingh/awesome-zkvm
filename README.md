@@ -140,6 +140,10 @@ A curated list of zkVM, zero-knowledge virtual machine.
 
 - [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217.pdf)
 
+### Nexus
+
+- [Nexus zkVM 3.0 Specification](https://specification.nexus.xyz/)
+
 ### SP1
 
 - [SP1 V4 Turbo: Memory Argument via Elliptic Curve based Multiset Hashing](https://github.com/succinctlabs/sp1/blob/5c8a50e08b48d22b88471f39f9cc45947ca3bf5c/book/static/SP1_Turbo_Memory_Argument.pdf)
