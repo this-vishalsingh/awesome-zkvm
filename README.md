@@ -123,6 +123,7 @@ A curated list of zkVM, zero-knowledge virtual machine.
 - benchmark of zkVMs and proving schemes | [code](https://github.com/babybear-labs/benchmark)
 - zkvm testing | [article](https://vac.dev/rlog/zkVM-testing/#summary-table)
 - prooflab benchmarks | [page](https://prooflab.dev/benchmarks)
+- Agglayer pessimistic Proof Benchmarks using zkVMs | [code](https://github.com/BrianSeong99/Agglayer_PessimisticProof_Benchmark)
 
 ## papers
 
